@@ -1,0 +1,2 @@
+defmodule Hamming do
+end
